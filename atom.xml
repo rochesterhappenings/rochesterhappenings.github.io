@@ -4,7 +4,7 @@
   <title><![CDATA[Rochester Happenings]]></title>
   <link href="http://rochesterhappenings.com/atom.xml" rel="self"/>
   <link href="http://rochesterhappenings.com/"/>
-  <updated>2013-12-27T14:19:37-05:00</updated>
+  <updated>2013-12-27T14:41:40-05:00</updated>
   <id>http://rochesterhappenings.com/</id>
   <author>
     <name><![CDATA[Daniel Jaouen]]></name>
@@ -12,5 +12,27 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, World!]]></title>
+    <link href="http://rochesterhappenings.com/blog/2013/12/27/hello-world/"/>
+    <updated>2013-12-27T14:27:11-05:00</updated>
+    <id>http://rochesterhappenings.com/blog/2013/12/27/hello-world</id>
+    <content type="html"><![CDATA[<p>Hey, there!</p>
+
+<p>I built this site out of love for both the Rochester area and the Rochester
+community.  We live in one of the most unique cities in the country, and our
+amazing culture should be celebrated for what it is!</p>
+
+<p>Right now, I&rsquo;m building this site to be a bi-weekly, centralized, curated list
+of cool and unique events occurring in the Rochester area.  If you or anyone
+you know would like to advertise for an upcoming event, feel free to contact me
+by email (dan &ldquo;at&rdquo; rochesterhappenings &ldquo;dot&rdquo; com) or using Twitter
+(<a href="https://twitter.com/roc_happenings">@roc_happenings</a>).</p>
+
+<p>Together, we can build a phenomenal site for a phenomenal city.  Thanks, and I
+hope to see you again soon :)</p>
+]]></content>
+  </entry>
   
 </feed>
