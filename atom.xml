@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Rochester Happenings]]></title>
-  <link href="http://rochesterhappenings.github.io/atom.xml" rel="self"/>
-  <link href="http://rochesterhappenings.github.io/"/>
-  <updated>2013-12-27T14:04:24-05:00</updated>
-  <id>http://rochesterhappenings.github.io/</id>
+  <link href="http://rochesterhappenings.com/atom.xml" rel="self"/>
+  <link href="http://rochesterhappenings.com/"/>
+  <updated>2013-12-27T14:19:37-05:00</updated>
+  <id>http://rochesterhappenings.com/</id>
   <author>
     <name><![CDATA[Daniel Jaouen]]></name>
     
