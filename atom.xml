@@ -4,7 +4,7 @@
   <title><![CDATA[Rochester Happenings]]></title>
   <link href="http://rochesterhappenings.com/atom.xml" rel="self"/>
   <link href="http://rochesterhappenings.com/"/>
-  <updated>2013-12-27T14:41:40-05:00</updated>
+  <updated>2013-12-28T13:12:45-05:00</updated>
   <id>http://rochesterhappenings.com/</id>
   <author>
     <name><![CDATA[Daniel Jaouen]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[December 28 - January 3]]></title>
+    <link href="http://rochesterhappenings.com/blog/2013/12/28/lap-giraffe/"/>
+    <updated>2013-12-28T13:05:11-05:00</updated>
+    <id>http://rochesterhappenings.com/blog/2013/12/28/lap-giraffe</id>
+    <content type="html"><![CDATA[<p>Jan. 2 &mdash; <a href="http://www.waterstreetmusic.com/event/lap-giraffe-with-mvt/">Lap Giraffe at Water Street Music</a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello, World!]]></title>
